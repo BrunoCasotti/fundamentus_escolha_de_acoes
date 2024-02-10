@@ -10,5 +10,5 @@ pip install fundamentus
 
 ## Uso
 
-Após a instalação das bibliotecas, basta executar todo o código e ao final verificar as empresas que restaram ao fim de todo o filtro fundamentalista.
+Após a instalação das bibliotecas, basta executar o código do notebook python e ao final verificar as empresas que restaram ao fim de todo o filtro fundamentalista.
 
